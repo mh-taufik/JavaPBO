@@ -13,9 +13,7 @@ public class Soal5 {
 			else
 				allplat = allplat + splits[i];
 		}
-		System.out.println(allplat);
 		total = Long.parseLong(allplat);
-		System.out.println(total-999999);
 		if((total - 999999)%5 == 0) {
 			System.out.println("Berhenti");
 		}else {
