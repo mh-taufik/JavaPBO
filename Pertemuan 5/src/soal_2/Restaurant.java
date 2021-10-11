@@ -1,4 +1,9 @@
 package soal_2;
+/*
+ * 9.20 menit
+ */
+
+import java.util.Scanner;
 
 public class Restaurant {
 	public String[] nama_makanan;
@@ -36,5 +41,16 @@ public class Restaurant {
 
 	public static void nextId(){
 		id++;
+	}
+
+	public void order() {
+		Scanner scan = new Scanner(System.in);
+	}
+	
+	public void buy(int id,int jumlah) {
+		if(stok[id]-jumlah < 0) 
+			System.out.println("Maaf Jumlah yang anda beli melebihi stok");
+		else
+			stok[id] -= jumlah;
 	}
 }
