@@ -12,9 +12,14 @@ public class Restaurant {
 	public static byte id=0;
 
 	public Restaurant() {
+//		public String[] 
 		nama_makanan = new String[10];
+//		public double[] 
 		harga_makanan = new double[10];
+//		public int[] 
 		stok = new int[10];
+//		public static byte id=0;
+//		
 	}
 	
 	public void tambahMenuMakanan(String nama, double harga, int stok) {
@@ -42,7 +47,7 @@ public class Restaurant {
 	public static void nextId(){
 		id++;
 	}
-
+/*
 	public void order() {
 		Scanner scan = new Scanner(System.in);
 	}
@@ -53,4 +58,6 @@ public class Restaurant {
 		else
 			stok[id] -= jumlah;
 	}
+ * 
+ */
 }

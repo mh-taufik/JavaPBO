@@ -1,6 +1,6 @@
 package soal_3;
 
-public class Itachi {
+public class Itachi extends Rikudo {
 	private String KekkeiGenkai = "Susanoo";
 	private String Dojutsu = super.Dojutsu;
 
@@ -10,6 +10,7 @@ public class Itachi {
 
 	void printDojutsu() {
 		System.out.println(this.Dojutsu);
+		this.setDojutsu();
 		System.out.println(this.Dojutsu);
 	}
 
