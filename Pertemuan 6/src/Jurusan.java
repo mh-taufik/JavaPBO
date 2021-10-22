@@ -3,7 +3,7 @@ import java.util.*;
 
 public class Jurusan {
 	private String nama;
-	private List<Dosen> dosen;
+	private List<Dosen> dosen = new ArrayList<Dosen>(3);
 	
 	Jurusan(String nama){
 		this.nama = nama;
@@ -11,7 +11,6 @@ public class Jurusan {
 	}
 	
 	public void generateDosen(List<Dosen> dosen) {
-		dosen = new ArrayList<Dosen>(3);
 		Dosen d1 = new Dosen("Budi",2,3);
 		Dosen d2 = new Dosen("Rahmat",4,5);
 		Dosen d3 = new Dosen("Sekar",1);
