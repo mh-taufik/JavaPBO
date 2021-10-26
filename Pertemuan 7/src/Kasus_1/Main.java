@@ -9,7 +9,6 @@ public class Main {
 		+ " height=" + c1.getHeight()
 		+ " base area=" + c1.getArea()
 		+ " volume=" + c1.getVolume());
-		c1.print();
 		
 		Cylinder c2 = new Cylinder(10.0);
 		System.out.println("Cylinder:"
@@ -17,7 +16,6 @@ public class Main {
 		+ " height=" + c2.getHeight()
 		+ " base area=" + c2.getArea()
 		+ " volume=" + c2.getVolume());
-		c2.print();
 
 		Cylinder c3 = new Cylinder(2.0, 10.0);
 		System.out.println("Cylinder:"
@@ -25,6 +23,5 @@ public class Main {
 		+ " height=" + c3.getHeight()
 		+ " base area=" + c3.getArea()
 		+ " volume=" + c3.getVolume());
-		c3.print();
 	}
 }

@@ -37,8 +37,4 @@ public class Cylinder extends Circle{
 		return "Cylinder: subclass from" + super.toString()
 		+ " height=" + height;
 	}
-	
-	public void print() {
-		System.out.println("radius="+ this.getRadius() +"   height=" + this.getHeight() );
-	}
 }
