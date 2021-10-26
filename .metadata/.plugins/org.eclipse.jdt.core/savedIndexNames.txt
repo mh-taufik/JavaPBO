@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/taufik/Documents/GitHub/JavaPBO/.metadata/.plugins/org.eclipse.jdt.core
+1869886401.index
+646308851.index
