@@ -1,0 +1,9 @@
+
+public class Employee {
+	protected String socialSecurityNumber;
+	protected double payRate;
+	
+	public Empolyee(String eName, String eAddress, String ePhone, String socSecNumber, double rate) {
+		
+	}
+}

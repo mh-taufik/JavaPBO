@@ -1,0 +1,8 @@
+
+public class Executive extends Employee{
+	private double bonus;
+	
+	public Executive(String eName, String eAddress, String ePhone, String socSecNumber, double rate) {
+		
+	}
+}

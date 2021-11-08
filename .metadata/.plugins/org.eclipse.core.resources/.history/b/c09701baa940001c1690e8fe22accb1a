@@ -1,0 +1,5 @@
+package Kasus_3;
+
+public class Comission extends Hourly{
+	
+}
