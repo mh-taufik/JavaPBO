@@ -2,4 +2,7 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="Universitas"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="Staff"/>
+    <fullyQualifiedTypeName name="Volunteer"/>
+    <fullyQualifiedTypeName name="Kasus_3.Comission"/>
 </qualifiedTypeNameHistroy>
