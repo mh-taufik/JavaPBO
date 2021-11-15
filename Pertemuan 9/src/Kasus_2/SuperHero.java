@@ -18,8 +18,4 @@ abstract class SuperHero{
 	public abstract void addPower(Power power);
 	public abstract void identity();
 	public abstract void showPower();
-	
-	public String toString() {
-		return "name: " + name + ", level: " + powerLevel;
-	}
 }

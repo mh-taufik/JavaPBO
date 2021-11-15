@@ -9,6 +9,6 @@ public class Paint{
 	
 	public double amount(Shape s) {
 		System.out.println("Computing amount for " + s);
-		return coverage;
+		return s.area()/coverage;
 	}
 }

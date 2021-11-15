@@ -16,17 +16,17 @@ public class FlyingDutchMan extends SuperHero{
 	}
 	
 	public String getName() {
-		return name;
+		return this.name;
 	}
 	
 	public int getPowerLevel() {
-		return powerLevel;
+		return this.powerLevel;
 	}
 	
 	public void addPower(Power power) {
 		powerList.add(power);
 	}
-	
+
 	public void identity() {
 		System.out.println("================================");
 		System.out.println("It's " + this.getName() + ", the FlyingDutchMan ! It has power level of " + this.getPowerLevel());
@@ -40,11 +40,5 @@ public class FlyingDutchMan extends SuperHero{
 			power.doPower();
 		}
 		System.out.println("================================");
-	}
-	
-	public String toString() {
-		String result = super.toString();
-		result += ", Class: FlyingDutchMan";
-		return result;
 	}
 }
