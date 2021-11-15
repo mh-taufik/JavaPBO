@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="Universitas"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="Staff"/>
     <fullyQualifiedTypeName name="Volunteer"/>
     <fullyQualifiedTypeName name="Kasus_3.Comission"/>
+    <fullyQualifiedTypeName name="java.text.DecimalFormat"/>
+    <fullyQualifiedTypeName name="Kasus_1.Rectangle"/>
+    <fullyQualifiedTypeName name="Kasus_1.Sphere"/>
+    <fullyQualifiedTypeName name="Kasus_2.LaserEye"/>
+    <fullyQualifiedTypeName name="Kasus_2.Flying"/>
+    <fullyQualifiedTypeName name="Kasus_2.ManRay"/>
+    <fullyQualifiedTypeName name="Kasus_2.DirtyBubble"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="Kasus_2.Strength"/>
+    <fullyQualifiedTypeName name="Kasus_2.SuperHero"/>
+    <fullyQualifiedTypeName name="Kasus_2.FlyingDutchMan"/>
 </qualifiedTypeNameHistroy>
