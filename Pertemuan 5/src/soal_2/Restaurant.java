@@ -38,13 +38,13 @@ public class Restaurant {
 		byte id = (byte) idMenu;
 		if(jumlah < 0)
 			System.out.println("Input jumlah makanan salah");
-		if((menuMakanan.getStok(id) - jumlah) < 0 ) {
+		if((menuMakanan.getStok(id) - jumlah) < 0 )
 			System.out.println("Mohon maaf stok tidak mencukupi");
-		}else {
+		else {
 			System.out.println("Anda Memesan " + menuMakanan.getNamaMakanan(id) + " sebanyak " + jumlah);
 			System.out.println("Total Harga adalah Rp." + menuMakanan.getHargaMakanan(id)*jumlah);
 			menuMakanan.removeStok(id, jumlah);
+			System.out.println("----------------------");
 		}
-		System.out.println("----------------------");
 	}
 }
