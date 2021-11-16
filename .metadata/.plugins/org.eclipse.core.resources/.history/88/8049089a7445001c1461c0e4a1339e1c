@@ -1,0 +1,29 @@
+package Kasus_2;
+
+import java.util.*;
+
+abstract class SuperHero{
+	private int powerLevel;
+	private String name;
+	private List<Power> powerList;
+
+	public String getName() {
+		return name;
+	}
+	
+	public int getPowerLevel() {
+		return powerLevel;
+	}
+	
+	void addPower(Power power);
+	
+	public void identity() {
+		System.out.println("It's " + getName() + ", the ");
+		System.out.println(".........HEED ME................");
+		System.out.println("FOR MY NAAAAAAAAAME IS " + getName());
+	}
+	
+	public void showPower() {
+	
+	}
+}

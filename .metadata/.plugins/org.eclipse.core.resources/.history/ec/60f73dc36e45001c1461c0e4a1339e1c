@@ -1,0 +1,9 @@
+package Kasus_1;
+
+public class Sphere extends Shape{
+	private double radius;
+	
+	public Sphere(double r) {
+		super("Sphere")
+	}
+}

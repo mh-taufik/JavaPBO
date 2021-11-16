@@ -1,0 +1,11 @@
+package Kasus_2;
+
+import java.util.ArrayList;
+
+public class AvengedSimulator {
+	public static void main(String[] args) {
+		SuperHero Heroes = new SuperHero[8];
+		Heroes[0] = new ManRay(0, "Gennichiro");
+		
+	}
+}

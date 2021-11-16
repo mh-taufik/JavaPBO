@@ -1,0 +1,51 @@
+package Kasus_2;
+
+import java.util.*;
+
+public class FlyingDutchMan extends SuperHero{
+	private int powerLevel;
+	private String name;
+	private List<Power> powerList;
+	
+	FlyingDutchMan(int heroLevel, String heroName) {
+		super(heroLevel, heroName);
+		powerList = new ArrayList<Power>();
+		addPower(new Flying());
+		addPower(new LaserEye());
+		identity();
+		showPower();
+	}
+	
+	public String getName() {
+		return name;
+	}
+	
+	public int getPowerLevel() {
+		return powerLevel;
+	}
+	
+	public void addPower(Power power) {
+		powerList.add(power);
+	}
+	
+	public void identity() {
+		System.out.println("================================");
+		System.out.println("It's " + getName() + ", the FlyingDutchMan ! It has power level of " + powerLevel);
+		System.out.println(".....HEED ME....."); 
+		System.out.println("FOR MY NAAAAAAAME IS " + getName());
+	}
+	
+	public void showPower() {
+		System.out.println("TIME TO SHOW MY POWER");
+		for(Power power: powerList) {
+			power.doPower();
+		}
+		System.out.println("================================");
+	}
+	
+	public String toString() {
+		String result = super.toString();
+		result += ", Class: FlyingDutchMan";
+		return result;
+	}
+}

@@ -1,0 +1,21 @@
+package Kasus_1;
+
+public class PaintThings {
+	public static void main(String[] args) {
+		final double COVERAGE = 350;
+		Paint paint = new Paint(COVERAGE);
+		
+		Rectange deck;
+		Sphere bigBall;
+		Cylinder tank;
+		
+		double dectAmt, bacllAmt, tankAmt;
+		
+		//Instatiate the three shapes to paint
+		
+		//Compute the amount of paint needed for each shape
+		
+		//print the amount of paint for each
+		DecimalFormat fmt = new DecimalFormat("0.#");
+	}
+}

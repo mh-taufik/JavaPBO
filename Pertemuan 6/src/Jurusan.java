@@ -1,30 +1,33 @@
-//Composition
 import java.util.*;
 
 public class Jurusan {
 	private String nama;
-	private List<Dosen> dosen = new ArrayList<Dosen>(3);
+	public List<Dosen> dosen;
 	
 	Jurusan(String nama){
 		this.nama = nama;
-		generateDosen(this.dosen);
+		generateDosen(dosen);
 	}
 	
 	public void generateDosen(List<Dosen> dosen) {
-		Dosen d1 = new Dosen("Budi",2,3);
-		Dosen d2 = new Dosen("Rahmat",4,5);
-		Dosen d3 = new Dosen("Sekar",1);
+		Dosen dosen1 = new Dosen("Budi",2,3);
+		Dosen dosen2 = new Dosen("Rahmat",1,5);
+		Dosen dosen3 = new Dosen("Sekar",3);
 		
-		dosen.add(d1);
-		dosen.add(d2);
-		dosen.add(d3);
+		dosen = new ArrayList<Dosen>(3);
+		
+		dosen.add(dosen1);
+		dosen.add(dosen2);
+		dosen.add(dosen3);
 	}
 	
 	public void printData() {
 		System.out.println("Nama Jurusan = " + this.nama);
-		System.out.printf("\n   Daftar Dosen   \n");
+		System.out.printf("--------------------------------\n    Daftar Dosen Pengajar\n");
 		for(Dosen partOf : dosen) {
-			partOf.printDosen();
+			System.out.println("Nama Dosen = " + partOf.getNama());
+			partOf.printData();
 		}
+		System.out.println("------------------------------");
 	}
 }

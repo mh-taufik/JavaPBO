@@ -1,0 +1,5 @@
+
+public class Dosen {
+	private String name;
+	private MataKuliah matkul;
+}

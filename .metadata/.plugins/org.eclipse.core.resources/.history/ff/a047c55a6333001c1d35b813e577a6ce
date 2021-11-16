@@ -1,0 +1,13 @@
+
+public class Jurusan {
+	private String nama;
+	private List<Dosen> dosen;
+	
+	Jurusan(String nama){
+		this.nama = nama;
+	}
+	
+	public void generateDosen(List<Dosen> dosen) {
+		
+	}
+}

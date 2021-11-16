@@ -1,0 +1,28 @@
+
+public class MataKuliah {
+	private String nama1, nama2;
+	
+	MataKuliah(int code1){
+	}
+	
+	MataKuliah(int code1, int nama2){
+		
+	}
+	
+	public String generateMatkul(int code) {
+		switch(code){
+			case 1:
+				return "Bahasa Inggris";
+			case 2
+				return "Struktur Data";
+			case 3:
+				return "Basis Data";
+			case 4:
+				return "Pemrograman Dasar";
+			case 5:
+				return "Bahasa Inggris";
+			default:
+				return " ";
+		}
+	}
+}

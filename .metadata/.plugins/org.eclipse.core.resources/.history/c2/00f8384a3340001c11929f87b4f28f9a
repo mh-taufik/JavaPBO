@@ -1,0 +1,12 @@
+
+abstract public class StaffMember {
+	protected String name;
+	protected String address;
+	protected String phone;
+	
+	public StafffMember(String eName, String eAddress, String ePhone){
+		name = eName;
+		addess = eAddress;
+		phone = ePhone;
+	}
+}

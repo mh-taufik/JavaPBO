@@ -1,0 +1,40 @@
+package Kasus_2;
+
+import java.util.List;
+
+public class DirtyBubble extends SuperHero{
+	private int powerLevel;
+	private String name;
+	private List<Power> powerList;
+	
+	public DirtyBubble(int heroLevel, String heroName) {
+		powerLevel = heroLevel;
+		name = heroName;
+		addPower(new Strength());
+		addPower(new Flying());
+	}
+	
+	public String getName() {
+		return name;
+	}
+	
+	public int getPowerLevel() {
+		return powerLevel;
+	}
+	
+	public void addPower(Power power) {
+		powerList.add(power);
+	}
+	
+	public void identity() {
+		System.out.println("It's " + getName() + ", the DirtyBubble ! It has power level of " + getPowerLevel());
+		super.identity();
+	}
+	
+	public void showPower() {
+		System.out.println("TIME TO SHOW MY POWER");
+		for(Power power: powerList) {
+			power.doPower();
+		}
+	}
+}

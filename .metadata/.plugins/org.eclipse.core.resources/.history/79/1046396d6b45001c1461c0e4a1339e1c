@@ -1,0 +1,9 @@
+package Kasus_2;
+
+abstract class SuperHero implements Power{
+	private int powerLevel;
+	private String name;
+	private List<Power> powerList;
+	
+	
+}

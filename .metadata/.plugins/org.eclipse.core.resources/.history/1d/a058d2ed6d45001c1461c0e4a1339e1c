@@ -1,0 +1,9 @@
+package Kasus_1;
+
+public class Shape {
+	private String shaoeName;
+	
+	public abstract area() {
+		
+	}
+}
