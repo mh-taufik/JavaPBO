@@ -1,0 +1,12 @@
+package Kasus_1;
+
+public class PaintThings {
+	public static void main(String[] args) {
+		final double COVERAGE = 350;
+		Paint paint = new Paint(COVERAGE);
+		
+		Rectange deck;
+		Sphere bigBall;
+		Cylinder tank;
+	}
+}

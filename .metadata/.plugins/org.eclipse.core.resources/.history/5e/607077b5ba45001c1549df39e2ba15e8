@@ -1,0 +1,26 @@
+package Kasus_2;
+
+import java.util.List;
+
+abstract class SuperHero{
+	private int powerLevel;
+	private String name;
+	private List<Power> powerList;
+	
+	SuperHero(int heroLevel, String heroName) {
+		powerLevel = heroLevel;
+		name = heroName;
+	}
+
+	public String getName() {
+		return name;
+	}
+	
+	public int getPowerLevel() {
+		return powerLevel;
+	}
+
+	abstract void addPower(Power power);
+	abstract void identity();
+	abstract void showPower();
+}

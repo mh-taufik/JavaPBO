@@ -1,0 +1,5 @@
+package Kasus_1;
+
+public class Rectangle extends Shape{
+
+}

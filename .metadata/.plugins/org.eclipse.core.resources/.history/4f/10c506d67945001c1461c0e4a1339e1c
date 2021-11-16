@@ -1,0 +1,9 @@
+package Kasus_2;
+
+public class AvengedSimulator {
+	public static void main(String[] args) {
+		SuperHero[] Heroes;
+		Heroes[0]
+		
+	}
+}
