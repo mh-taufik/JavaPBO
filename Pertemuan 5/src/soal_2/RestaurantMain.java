@@ -11,7 +11,7 @@ public class RestaurantMain {
 		menu.tampilMenuMakanan();
 		System.out.println();
 		menu.pesanMenuMakanan(0, 10);
-		menu.pesanMenuMakanan(2, 20);
+		menu.pesanMenuMakanan(3, 20);
 		menu.tampilMenuMakanan();
 	}
 	

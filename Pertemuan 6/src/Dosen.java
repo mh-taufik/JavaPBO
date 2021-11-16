@@ -1,24 +1,21 @@
 
 public class Dosen {
-	private String nama;
+	private String name;
 	private MataKuliah matkul;
 	
-	Dosen(String nama, int code){
-		this.nama = nama;
+	Dosen(String name, int code){
+		this.name = name;
 		this.matkul = new MataKuliah(code);
 	}
 	
-	Dosen(String nama, int code1, int code2){
-		this.nama = nama;
-		this.matkul = new MataKuliah(code1, code2);
+	Dosen(String name, int code1, int code2){
+		this.name = name;
+		this.matkul = new MataKuliah(code1,code2);
 	}
 	
-	public String getNama() {
-		return nama;
-	}
-	
-	public void printData() {
-		System.out.println("Nama Dosen = " + this.nama);
+	public void printDosen() {
+		System.out.println("Nama Dosen = " + this.name);
 		this.matkul.printMatkul();
+		System.out.println("--------------------------");
 	}
 }
