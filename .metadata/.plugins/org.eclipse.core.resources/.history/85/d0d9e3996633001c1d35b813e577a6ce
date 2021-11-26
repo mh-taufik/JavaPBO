@@ -1,8 +1,0 @@
-
-public class Main {
-	public static void main(String[] args) {
-		Universitas univ = new Universitas("POLBAN", "Bandung");
-		univ.printUniv();
-		Jurusan jurusan = new Jurusan("Teknik Informatika");
-	}
-}

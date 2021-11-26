@@ -11,7 +11,6 @@ public class Sphere extends Shape{
 	
 	//returns the surface area of the sphere
 	public double area() {
-//		return 0.4;
 		return 4*Math.PI*radius*radius;
 	}
 	
