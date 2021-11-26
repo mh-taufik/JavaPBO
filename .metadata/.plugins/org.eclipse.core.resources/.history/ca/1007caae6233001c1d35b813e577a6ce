@@ -1,9 +1,0 @@
-
-public class Dosen {
-	private String name;
-	private MataKuliah matkul;
-	
-	Dosen(String name, int code1, int code2){
-		this.name = name;
-	}
-}
