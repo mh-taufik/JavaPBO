@@ -9,7 +9,7 @@ public class Operasi_File {
 			textFile.close();
 		} catch (Exception e) {
 			// TODO: handle exception
-			System.out.println(e);
+			System.out.println(e + " handled");
 		}
 	}
 	

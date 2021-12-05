@@ -16,10 +16,10 @@ public class Hexadecimal{
 		Scanner scan = new Scanner(System.in);
 		
 		//print ke layar
-		System.out.println("Menghitung Nilai HExadecimal ke Decimal\n-----------------------------------");
+		System.out.println("Menghitung Nilai Hexadecimal ke Decimal\n-----------------------------------");
 		System.out.printf("masukan angka hexadecimal: ");
 		String hexa = scan.next();
-		 int dec = Hexadec(hexa);
+		int dec = Hexadec(hexa);
 		System.out.println("\nhasil bilangan pada decimal adalah: " + dec);
 		
 		scan.close();
