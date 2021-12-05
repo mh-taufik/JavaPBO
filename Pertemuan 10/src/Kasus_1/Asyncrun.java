@@ -5,7 +5,6 @@ public class Asyncrun implements Runnable {
 	public void run() {
 		// TODO Auto-generated method stub
 		System.out.println("Asyncrun.run on threads " + Thread.currentThread().getId());
-//		throw new ArithmeticException();
 	}
 	
 	public static void main(String[] args) {
