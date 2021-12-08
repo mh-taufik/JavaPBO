@@ -15,10 +15,11 @@ public class Main {
 				new TypeToken<ArrayList<Pesanan>>() {}.getType());
 
 		int i=1;
+		System.out.println("ProductName | Quantity | Weight | Destination | ServicePackage | Service | Value | Total\n");
 		for(Iterator<Pesanan> itr = list.iterator(); itr.hasNext(); i++) {
 			Pesanan temp = itr.next();
 			System.out.println("barang ke-" + i + " : \n" + temp.toString());
-			System.out.println("----------------------------\n");
+			System.out.println("----------------------------");
 		}
 	}
 }

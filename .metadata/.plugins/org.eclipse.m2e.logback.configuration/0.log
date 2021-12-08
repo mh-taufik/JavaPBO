@@ -1928,3 +1928,128 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.co
 2021-12-08 11:14:48,419 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/main/resources
 2021-12-08 11:14:48,420 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-12-08 11:14:48,420 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/test/resources
+2021-12-08 19:38:00,826 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-12-08 19:41:39,054 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:41:39,056 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/main/resources
+2021-12-08 19:41:39,060 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:41:39,060 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/test/resources
+2021-12-08 19:41:46,435 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:41:46,436 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/main/resources
+2021-12-08 19:41:46,446 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:41:46,447 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/test/resources
+2021-12-08 19:42:22,475 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:42:22,475 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/main/resources
+2021-12-08 19:42:22,490 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:42:22,490 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/test/resources
+2021-12-08 19:42:28,180 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:42:28,180 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/main/resources
+2021-12-08 19:42:28,183 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:42:28,184 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/test/resources
+2021-12-08 19:42:36,894 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:42:36,894 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/main/resources
+2021-12-08 19:42:36,896 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:42:36,896 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/test/resources
+2021-12-08 19:42:44,688 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:42:44,689 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/main/resources
+2021-12-08 19:42:44,691 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:42:44,692 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/test/resources
+2021-12-08 19:42:49,854 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:42:49,854 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/main/resources
+2021-12-08 19:42:49,858 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:42:49,858 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/test/resources
+2021-12-08 19:43:38,571 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:43:38,571 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/main/resources
+2021-12-08 19:43:38,576 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:43:38,582 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/test/resources
+2021-12-08 19:43:48,063 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:43:48,063 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/main/resources
+2021-12-08 19:43:48,066 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:43:48,066 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/test/resources
+2021-12-08 19:44:08,790 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:44:08,791 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/main/resources
+2021-12-08 19:44:08,797 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:44:08,797 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/test/resources
+2021-12-08 19:44:18,960 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:44:18,960 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/main/resources
+2021-12-08 19:44:18,962 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:44:18,963 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/test/resources
+2021-12-08 19:44:30,948 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:44:30,948 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/main/resources
+2021-12-08 19:44:30,950 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:44:30,950 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/test/resources
+2021-12-08 19:44:42,028 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:44:42,028 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/main/resources
+2021-12-08 19:44:42,030 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:44:42,030 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/test/resources
+2021-12-08 19:46:13,952 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:46:13,956 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/main/resources
+2021-12-08 19:46:13,960 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:46:13,960 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/test/resources
+2021-12-08 19:46:40,755 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:46:40,756 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/main/resources
+2021-12-08 19:46:40,762 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:46:40,763 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/test/resources
+2021-12-08 19:46:47,528 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:46:47,529 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/main/resources
+2021-12-08 19:46:47,533 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:46:47,533 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/test/resources
+2021-12-08 19:47:23,911 [Worker-0: Launching Main (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:47:23,912 [Worker-0: Launching Main (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/main/resources
+2021-12-08 19:47:23,919 [Worker-0: Launching Main (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:47:23,919 [Worker-0: Launching Main (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/test/resources
+2021-12-08 19:47:39,571 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:47:39,571 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/main/resources
+2021-12-08 19:47:39,574 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:47:39,574 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/test/resources
+2021-12-08 19:48:17,324 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:48:17,325 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/main/resources
+2021-12-08 19:48:17,329 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:48:17,329 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/test/resources
+2021-12-08 19:48:26,002 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:48:26,002 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/main/resources
+2021-12-08 19:48:26,005 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:48:26,006 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/test/resources
+2021-12-08 19:48:30,415 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:48:30,415 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/main/resources
+2021-12-08 19:48:30,417 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:48:30,417 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/test/resources
+2021-12-08 19:51:02,558 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:51:02,558 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/main/resources
+2021-12-08 19:51:02,597 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:51:02,597 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/test/resources
+2021-12-08 19:51:48,681 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:51:48,682 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/main/resources
+2021-12-08 19:51:48,684 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:51:48,685 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/test/resources
+2021-12-08 19:52:34,534 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:52:34,535 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/main/resources
+2021-12-08 19:52:34,536 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:52:34,536 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/test/resources
+2021-12-08 19:52:53,240 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:52:53,240 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/main/resources
+2021-12-08 19:52:53,242 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:52:53,242 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/test/resources
+2021-12-08 19:53:03,751 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:53:03,751 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/main/resources
+2021-12-08 19:53:03,754 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:53:03,754 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/test/resources
+2021-12-08 19:53:10,652 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:53:10,652 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/main/resources
+2021-12-08 19:53:10,653 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:53:10,654 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/test/resources
+2021-12-08 19:54:27,703 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:54:27,704 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/main/resources
+2021-12-08 19:54:27,706 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:54:27,706 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/test/resources
+2021-12-08 19:55:57,452 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:55:57,452 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/main/resources
+2021-12-08 19:55:57,454 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:55:57,454 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/test/resources
+2021-12-08 19:56:13,232 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:56:13,232 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/main/resources
+2021-12-08 19:56:13,239 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:56:13,239 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/test/resources
+2021-12-08 19:57:37,813 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:57:37,813 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/main/resources
+2021-12-08 19:57:37,815 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-08 19:57:37,816 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/src/test/resources

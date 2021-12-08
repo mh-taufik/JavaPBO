@@ -5,7 +5,6 @@ public class City {
 	
 	@Override
 	public String toString() {
-		String print = "Kota Asal: " + this.origin + "\nKota Tujuan: " + this.destination + "\n\n";
-		return print;
+		return this.destination + " | ";
 	}
 }

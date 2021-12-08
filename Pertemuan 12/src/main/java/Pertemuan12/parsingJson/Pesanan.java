@@ -9,11 +9,10 @@ public class Pesanan {
 	
 	@Override
 	public String toString() {
-		String print = "\nNama Barang; " + this.productName + "\nJumlah: " + this.quantity + "\nHarga: " + this.priceItem
-				+ "\nBerat: " + this.weight + " Kg\n";
-		print += servicePackage.toString();
+		String print = this.productName + " | " + this.quantity + " | " + this.weight + " | ";
 		print += city.toString();
-		print += status.toString();
+		print += servicePackage.toString();
+		print += (this.priceItem*this.quantity) + this.servicePackage.getValue();
 		return print;
 	}
 }
