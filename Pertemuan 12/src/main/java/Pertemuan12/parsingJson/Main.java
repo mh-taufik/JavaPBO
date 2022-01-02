@@ -15,12 +15,11 @@ public class Main {
 				new TypeToken<ArrayList<Pesanan>>() {}.getType());
 
 		int i=1;
-		System.out.println("ProductName | Quantity | Weight | Destination | ServicePackage | Service | Value | Total\n");
 		for(Iterator<Pesanan> itr = list.iterator(); itr.hasNext(); i++) {
 			Pesanan temp = itr.next();
-			System.out.println("barang ke-" + i + " : \n" + temp.toString());
-			System.out.println("----------------------------");
+			System.out.println("barang ke-" + i + " :  " + temp.toString());
 		}
+		System.out.println("----------------------------");
 	}
 }
 
@@ -28,6 +27,3 @@ public class Main {
 //		System.out.println(read.getAbsolutePath());
 //		new File("/home/taufik/Documents/GitHub/JavaPBO/Pertemuan 12/assets/barang.json")
 //		new FileReader("../assets/barang.json") 
-		
-		
-
