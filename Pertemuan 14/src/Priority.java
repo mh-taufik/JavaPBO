@@ -1,10 +1,11 @@
-public class ThreadPriority implements Runnable{
+
+public class Priority implements Runnable{
 	public void run() {
 		System.out.println(Thread.currentThread());
 	}	
 
 	public static void main(String[] args) {
-		ThreadPriority run = new ThreadPriority();
+		Priority run = new Priority();
 		Thread thread1 = new Thread(run,"Threads Pertama");
 		Thread thread2 = new Thread(run,"Threads Kedua");
 		Thread thread3 = new Thread(run,"Threads Ketiga");		
